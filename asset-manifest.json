@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spiel_des_Lebens/static/css/main.32562878.css",
+    "main.js": "/Spiel_des_Lebens/static/js/main.d5d61983.js",
+    "static/js/787.cdeb49e2.chunk.js": "/Spiel_des_Lebens/static/js/787.cdeb49e2.chunk.js",
+    "index.html": "/Spiel_des_Lebens/index.html",
+    "main.32562878.css.map": "/Spiel_des_Lebens/static/css/main.32562878.css.map",
+    "main.d5d61983.js.map": "/Spiel_des_Lebens/static/js/main.d5d61983.js.map",
+    "787.cdeb49e2.chunk.js.map": "/Spiel_des_Lebens/static/js/787.cdeb49e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32562878.css",
+    "static/js/main.d5d61983.js"
+  ]
+}
